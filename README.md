@@ -26,10 +26,9 @@ _Hello 👋, Happy to know that you visit my profile._
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfnhanif&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfnhanif&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=irfnhanif&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=irfnhanif&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=irfnhanif&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 -->
