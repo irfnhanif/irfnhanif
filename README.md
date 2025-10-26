@@ -6,7 +6,7 @@ My approach to software development is both analytical and user-centric, built o
 
 Often, development is a team effort. I value clear communication and close collaboration with teammates across all disciplines. My technical foundation is in languages like Java, PHP, and Javascript and their associated frameworks, but I consider my curiosity, adaptability, and commitment to continuous learning to be my most important assets. I am always exploring new tools and methodologies to become a more effective problem-solver.
 
-I'm always excited to learn and am open to collaborating on meaningful projects. Feel free to connect or reach out if you have an interesting idea!
+I'm always excited to learn and am open to collaborating on meaningful projects. Feel free to follow or request a mutual follow if you have an interesting idea!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZhyRJSeu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-hanif-habibi/)
